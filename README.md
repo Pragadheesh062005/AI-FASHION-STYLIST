@@ -90,4 +90,4 @@ Occasion type
 
 👕 Lead & complementary color suggestions
 
-👗 Occasion-wise fashion tips
+👗 Occasion-wise fashion tips  
